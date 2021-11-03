@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Driver"},{"p":"<Unnamed>","l":"Grid"},{"p":"<Unnamed>","l":"MineSquare"},{"p":"<Unnamed>","l":"Minesweeper"},{"p":"<Unnamed>","l":"NumberSquare"},{"p":"<Unnamed>","l":"Square"},{"p":"<Unnamed>","l":"Grid.Status"}];updateSearchResults();
